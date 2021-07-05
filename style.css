@@ -125,6 +125,9 @@ body{
     padding: 0px;
     margin-top: 50px;
     text-align: center;
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
 
 }
 .middle-left{
@@ -150,6 +153,7 @@ body{
     text-align:left;
     padding-left: 60px;
     margin-top: 10px;
+    background-image: url(images/);
 
 
 }
