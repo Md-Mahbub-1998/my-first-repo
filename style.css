@@ -37,7 +37,7 @@ body{
 
 }
 
-.left-content h1:nth-child(1){
+.left-content h1{
 
 
     font-size: 45px;
@@ -47,7 +47,7 @@ body{
 
 }
 
-.left-content h1:nth-child(2){
+.left-content h1{
 
     font-size: 45px;
    
@@ -76,6 +76,7 @@ body{
     padding: 5px;
     line-height: 25px;
     margin-left: 20px;
+    
 
 
 }
@@ -83,7 +84,6 @@ body{
 .left-content a{
 
     text-decoration: none;
-    display:inline-block;
     font-size: 20px;
     font-weight: bold;
     background:orange;
@@ -93,6 +93,8 @@ body{
     margin: 10px;
     margin-left: 20px;
     color: white;
+    text-align: left;
+    
 
 
 
@@ -198,7 +200,6 @@ font-size: 40px;
 .buttom-content{
 
     width: 100%;
-    border: 1px solid black;
     height: 700px;
     background-image: url(images/exp-bg.png);
     background-repeat: no-repeat;
@@ -208,6 +209,7 @@ font-size: 40px;
 #experiance{
 
     font-size: 40px;
+    margin-left: 30px;
 
 
 }
@@ -258,3 +260,41 @@ font-size: 40px;
 
 }
 
+.right-bottom{
+
+    width: 50%;
+    margin-top: 5px;
+    box-shadow: 5px 5px 20px ;
+    margin: 5px 30px;
+    border-left: 10px  solid #f78f20;
+    padding: 20px;
+
+}
+.right-bottom h1{
+
+    font-size: 40px;
+    margin:10px 20px;
+    text-align: center;
+
+}
+
+.right-bottom h3{
+
+
+    font-size: 20px;
+    color: orange;
+
+
+
+}
+
+.right-bottom p{
+
+
+    font-size: 20px;
+    color: rgb(39, 36, 36);
+    line-height: 35px;
+
+
+
+}
