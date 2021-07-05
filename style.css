@@ -1,0 +1,11 @@
+.head-section{
+
+
+        width: 995px;
+        background-image: url(images/top-banner.png);
+        background-position: 0 0;
+        background-repeat: no-repeat;
+        display: flex;
+}
+
+
